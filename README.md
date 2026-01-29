@@ -14,6 +14,7 @@ git remote add origin <원격지 주소>
 
 git pull origin main
 
+# git status 로 staging area에 add 되었는지와 commit 되었는지 확인해보기(여러번 해도 무방)
 git add -A
 
 git commit -m '<커밋 메세지>'
